@@ -39,9 +39,6 @@ const BlogIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                {image && (
-                  <GatsbyImage image={image} />
-                )}
                 <header>
                   <h2>
                     <Link to={post.fields.slug} itemProp="url">
@@ -50,6 +47,9 @@ const BlogIndex = ({ data, location }) => {
                   </h2>
                   <small>{post.frontmatter.date}</small>
                 </header>
+                {image && (
+                  <GatsbyImage image={image} />
+                )}
                 <section>
                   <p
                     dangerouslySetInnerHTML={{
