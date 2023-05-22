@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Blog about Difree – distarction-free text editor`,
+    title: `Blog about Difree – distraction-free text editor`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Aleksander Jaworski`,
+      summary: `who lives and works in Wrocław, Poland, co-creating Difree.`,
     },
-    description: `Difree - distarction-free text editor`,
-    siteUrl: `https://getdifree.com/`,
+    description: `Difree - distraction-free text editor`,
+    siteUrl: `https://wwww.getdifree.com/`,
   },
   plugins: [
     `gatsby-plugin-image`,
