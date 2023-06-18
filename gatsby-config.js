@@ -15,9 +15,10 @@ module.exports = {
       summary: `who lives and works in Wrocław, Poland, co-creating Difree.`,
     },
     description: `Difree - distraction-free text editor`,
-    siteUrl: `https://wwww.getdifree.com/`,
+    siteUrl: `https://blog.getdifree.com/`,
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
