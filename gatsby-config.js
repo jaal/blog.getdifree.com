@@ -119,22 +119,5 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
-    {
-      resolve: `gatsby-plugin-posthog`,
-      options: {
-        // Specify the API key for your Posthog Project (required)
-        apiKey: "phc_NAIqaOKD1tJTo6tCSeVbzJaHmxAXxE0yV3spbdmo7Ym",
-        // Specify the app host if self-hosting (optional, default: https://app.posthog.com)
-        apiHost: "https://eu.posthog.com",
-        // Puts tracking script in the head instead of the body (optional, default: true)
-        head: true,
-        // Enable posthog analytics tracking during development (optional, default: false)
-        isEnabledDevMode: true
-        // Pass custom variables to posthog.init() (optional)
-        initOptions: {
-          // ...
-        }
-      },
-    }
   ],
 }
