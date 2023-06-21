@@ -18,6 +18,21 @@ module.exports = {
     siteUrl: `https://blog.getdifree.com/`,
   },
   plugins: [
+    resolve: `gatsby-plugin-posthog`,
+    options: {
+      // Specify the API key for your Posthog Project (required)
+      apiKey: "phc_NAIqaOKD1tJTo6tCSeVbzJaHmxAXxE0yV3spbdmo7Ym",
+      // Specify the app host if self-hosting (optional, default: https://app.posthog.com)
+      apiHost: "https://app.posthog.com",
+      // Puts tracking script in the head instead of the body (optional, default: true)
+      head: true,
+      // Enable posthog analytics tracking during development (optional, default: false)
+      isEnabledDevMode: true
+      // Pass custom variables to posthog.init() (optional)
+      initOptions: {
+        // ...
+      }
+    },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-image`,
     {
