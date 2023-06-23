@@ -1,7 +1,7 @@
 ---
 title: Release of version 0.8.3 – size of the fonts in the Editor
 description: "We added the option to change the size of the fonts in the Editor and the option to change the consent for sending usage data in the Settings"
-image: 
+image: ./image.png
 date: "2023-05-16"
 ---
 

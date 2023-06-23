@@ -1,7 +1,7 @@
 ---
 title: "Release of version 0.5.0 – export to Markdown"
 date: "2022-06-21T19:19:34+00:00"
-image:
+image: ./image3.png
 ---
 
 Hey Everyone,

@@ -1,7 +1,7 @@
 ---
 title: Release of version 0.8.2 – adding consent popup
 description: "We added an option to decide whether you want or not to send usage data about Difree."
-image: 
+image: ./image.png
 date: "2023-05-05"
 ---
 

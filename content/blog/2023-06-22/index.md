@@ -1,7 +1,7 @@
 ---
 title: Release of version 0.8.6 – adding Feedback flow and bugfixing
 description: "We would like to keep in touch with you, whenever you need a help from our side. That's why we implemented contact / feedback button in the form of question mark (?), so you can easily contact us."
-image: 
+image: ./image.png
 date: "2023-06-22"
 ---
 
