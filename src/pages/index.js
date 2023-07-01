@@ -10,7 +10,6 @@ const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
-
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
@@ -30,7 +29,9 @@ const BlogIndex = ({ data, location }) => {
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
-          const image = getImage(post.frontmatter.image?.childImageSharp?.gatsbyImageData)
+          const image = getImage(
+            post.frontmatter.image?.childImageSharp?.gatsbyImageData
+          )
 
           return (
             <li key={post.fields.slug}>
@@ -47,9 +48,7 @@ const BlogIndex = ({ data, location }) => {
                   </h2>
                   <small>{post.frontmatter.date}</small>
                 </header>
-                {image && (
-                  <GatsbyImage image={image} />
-                )}
+                {image && <GatsbyImage image={image} />}
                 <section>
                   <p
                     dangerouslySetInnerHTML={{
