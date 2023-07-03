@@ -22,7 +22,7 @@ module.exports = {
       resolve: `gatsby-plugin-posthog`,
       options: {
         apiKey: "phc_NAIqaOKD1tJTo6tCSeVbzJaHmxAXxE0yV3spbdmo7Ym",
-        apiHost: "https://app.posthog.com",
+        apiHost: "https://eu.posthog.com",
         head: true,
         isEnabledDevMode: true,
         initOptions: {},
