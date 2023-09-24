@@ -1,5 +1,5 @@
 ---
-title: The milestone - 1000 users 🎉
+title: Release Difree 0.9.0 - Immerse Yourself in Writing with Keyboard Sounds 
 description: "We are thrilled to announce the release of Difree 0.9.0, a significant update that brings an immersive writing experience to a whole new level. Say hello to the mesmerizing sound of keyboard strokes with our latest feature!"
 image:
 date: "2023-09-24"
