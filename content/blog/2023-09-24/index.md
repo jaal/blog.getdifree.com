@@ -5,9 +5,7 @@ image:
 date: "2023-09-24"
 ---
 
-Release Difree 0.9.0: Immerse Yourself in Writing with Keyboard Sounds
-
-Greetings, Difree Community!
+# Greetings, Difree Community!
 
 We are thrilled to announce the release of Difree 0.9.0, a significant update that brings an immersive writing experience to a whole new level. Say hello to the mesmerizing sound of keyboard strokes with our latest feature!
 
@@ -54,6 +52,4 @@ Ready to experience the magic of keyboard sounds? [Update or install Difree 0.9.
 
 Thank you for being a part of our growing community. We can't wait to see how this new feature enhances your writing experience.
 
-[https://i.getdifree.com/install](https://i.getdifree.com/install)
-
-Happy writing!
+## Happy writing!

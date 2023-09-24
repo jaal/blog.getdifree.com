@@ -5,7 +5,7 @@ image:
 date: "2023-09-20"
 ---
 
-Dear Difree Fans!
+# Dear Difree Fans!
 
 We're thrilled to share a significant milestone with all of you – Difree has now reached 1000 dedicated weekly active users according to Chrome Web Store stats! 🚀
 
