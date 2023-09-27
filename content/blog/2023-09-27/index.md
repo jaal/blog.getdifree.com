@@ -47,10 +47,14 @@ Getting started with keyboard sounds in Difree is a breeze:
 2. Go to the Format menu within Difree.
 3. Select the RTL icon 
 
+![](./image1.png)
+
 ## 📝 How to Enable Monospaced fonts:
 1. Update to Difree 0.9.4 or install it if you haven't already.
 2. Go to the Settings menu within Difree, by clicking the hamburger menu icon in the top-left corner.
 3. Under "Font", you'll find the option to change the font type.
+
+![](./image2.png)
 
 ## 🎉 We Want Your Feedback!
 
