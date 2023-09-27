@@ -1,5 +1,5 @@
 ---
-title: Release Difree 0.9.4 - Immerse Yourself in Writing with Keyboard Sounds 
+title: Release Difree 0.9.4 - Enhance Your Writing Experience with monospaced fonts and RTL
 description: "We're excited to introduce Difree version 0.9.4, packed with new features and improvements to make your writing experience even better: Writing Right-To-Left (RTL) and Monospaced Font Selection"
 image:
 date: "2023-09-27"
