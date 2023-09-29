@@ -35,6 +35,11 @@ Precision matters, especially when you're writing code or creating structured do
 
 to give your writing a clean and organized look. Customization is key, and now you have more control over your writing environment.
 
+#### iAWriterMono
+![Difree: monospaced font iAWriterMono](./image3.png)
+#### Courier New
+![Difree: monospaced font Courier New](./image4.png)
+
 ### 🐞 Bug Fixes and Minor Improvements
 
 We fixed the issue with turning off the Key Sound.
@@ -47,14 +52,14 @@ Getting started with keyboard sounds in Difree is a breeze:
 2. Go to the Format menu within Difree.
 3. Select the RTL icon 
 
-![](./image1.png)
+![Difree: how to turn on RTL settings](./image1.png)
 
 ## 📝 How to Enable Monospaced fonts:
 1. Update to Difree 0.9.4 or install it if you haven't already.
 2. Go to the Settings menu within Difree, by clicking the hamburger menu icon in the top-left corner.
 3. Under "Font", you'll find the option to change the font type.
 
-![](./image2.png)
+![Difree: how to turn on monospaced fonts](./image2.png)
 
 ## 🎉 We Want Your Feedback!
 
