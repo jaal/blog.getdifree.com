@@ -1,5 +1,5 @@
 ---
-title: "Release Difree 0.9.4.1: Squashing Bugs"
+title: "Release Difree 0.9.4.1 - Squashing Bugs"
 description: "We're back with an update that focuses on fine-tuning your writing experience. Difree version 0.9.4.1 is here, and it's all about addressing those pesky bugs to ensure a smoother and more enjoyable writing journey. Let's dive into what's changed:"
 image:
 date: "2023-10-14"
@@ -25,7 +25,7 @@ As always, we're eager to hear your thoughts and suggestions. Your feedback play
 
 Please let us know how we are doing! 
 1. Write on [hi@getdifree.com](mailto:hi@getdifree.com), 
-2. Submit [the feedback form](i.getdifree.com/feedback),
+2. Submit [the feedback form](https://i.getdifree.com/feedback),
 3. Or tooth [@getdifree](https://mastodon.world/@getdifree).
 
 ## 📣 Spread the Word!
